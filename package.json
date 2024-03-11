@@ -1,0 +1,19 @@
+{
+	"name": "nyord",
+	"version": "1.0.2",
+	"description": "New swedish words 2000-",
+	"main": "index.mjs",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/smlsvnssn/nyord.git"
+	},
+	"keywords": [
+		"Nyord"
+	],
+	"author": "smlsvnssn",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/smlsvnssn/nyord/issues"
+	},
+	"homepage": "https://github.com/smlsvnssn/nyord#readme"
+}
